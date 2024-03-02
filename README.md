@@ -1,0 +1,2 @@
+# haidz
+say hi
